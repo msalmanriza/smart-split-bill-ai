@@ -34,6 +34,10 @@ pip install -r requirements.txt
 ## Run Application
 streamlit run app.py
 
+## Link Gdrive
+dikarnakan file nya besar akses link gdrive dibawah ini:
+https://drive.google.com/drive/folders/1TAPqxYL_5DYH3eyCFy71zb1y4d9V-3Cs?usp=sharing
+
 ## Project Structure
 SmartSplitBillAI
 
