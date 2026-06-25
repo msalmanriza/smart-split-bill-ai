@@ -36,6 +36,7 @@ streamlit run app.py
 
 ## Link Gdrive
 dikarnakan file nya besar akses link gdrive dibawah ini:
+
 https://drive.google.com/drive/folders/1TAPqxYL_5DYH3eyCFy71zb1y4d9V-3Cs?usp=sharing
 
 ## Project Structure
@@ -133,4 +134,4 @@ View Report
 
 Selected Model
 
-Untuk prototype akhir dipilih Gemini 2.5 Flash karena memberikan hasil ekstraksi receipt yang lebih akurat dibandingkan Donut pada data uji yang digunakan.
+### Untuk prototype akhir dipilih Gemini 2.5 Flash karena memberikan hasil ekstraksi receipt yang lebih akurat dibandingkan Donut pada data uji yang digunakan.
